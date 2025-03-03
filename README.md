@@ -1,7 +1,7 @@
-# P1AutomationSuite
+# E2EAutomation
 
 ## 📌 Overview
-P1AutomationSuite is a **Hybrid Test Automation Framework** designed for web application testing using **Selenium WebDriver, Java, TestNG, and Cucumber**. This framework follows the **Page Object Model (POM)** for maintainability and integrates with **GitHub Actions for CI/CD**. Test execution results are logged and generated in **Extent Reports**.
+E2EAutomation is a **Hybrid Test Automation Framework** designed for web application testing using **Selenium WebDriver, Java, TestNG, and Cucumber**. This framework follows the **Page Object Model (POM)** for maintainability and integrates with **GitHub Actions for CI/CD**. Test execution results are logged and generated in **Extent Reports**.
 
 ## 🛠️ Tech Stack
 - **Programming Language:** Java
@@ -67,7 +67,7 @@ P1AutomationSuite/
 - Failed test cases are captured as **screenshots** and logged.
 
 ## 📧 Contact
-For any queries, reach out at **siddheshwardongare@gmail.com**.
+For any queries, reach out at **arunsubramani20@gmail.com**.
 
 ---
 
