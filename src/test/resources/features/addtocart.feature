@@ -5,3 +5,4 @@ Feature: Add to cart
         Given user is on product details page
         When user click on add to cart button
         Then product is added oin the cart successfully
+        And user click on checkout button

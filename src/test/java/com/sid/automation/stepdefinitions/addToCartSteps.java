@@ -1,5 +1,6 @@
 package com.sid.automation.stepdefinitions;
 
+import io.cucumber.java.en.And;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
@@ -30,6 +31,11 @@ public class addToCartSteps {
         System.out.println(pageTitle);
         Assert.assertTrue(pageTitle.contains("Swag Labs"), 
             "Search results page not displayed");
+    }
+
+    @And("user click on checkout button")
+    public void user_click_on_checkOut_btn(){
+        AddToCartPage.clickOnCheckOutBtn();
     }
 
 
