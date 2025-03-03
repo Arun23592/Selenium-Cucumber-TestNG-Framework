@@ -38,7 +38,7 @@ P1AutomationSuite/
 - Install **Maven**
 - Clone the repository
   ```sh
-  git clone https://github.com/YOUR_USERNAME/P1AutomationSuite.git
+  git clone https://github.com/YOUR_USERNAME/E2EAutomationSuite.git
   cd P1AutomationSuite
   ```
 - Install dependencies
