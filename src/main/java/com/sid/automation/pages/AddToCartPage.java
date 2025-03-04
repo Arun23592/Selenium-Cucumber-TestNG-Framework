@@ -20,6 +20,8 @@ public class AddToCartPage extends BaseClass{
     @FindBy(id = "checkout")
     private WebElement checkOut;
 
+
+
      public AddToCartPage() {
         super(); // calls BaseClass constructor
         PageFactory.initElements(driver, this);
@@ -37,4 +39,7 @@ public class AddToCartPage extends BaseClass{
     public void clickOnCheckOutBtn(){
          click(checkOut);
     }
+
+
+
 }
